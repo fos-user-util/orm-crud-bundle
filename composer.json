@@ -2,7 +2,7 @@
     "name": "fos-user-util/orm-crud-bundle",
     "type": "symfony-bundle",
     "description": "Generated CRUD for friendsofsymfony/user-bundle using Doctrine ORM",
-    "keywords": ["user-management", "friendsofsymfony/user", "fos-user", "persistence", "doctrine-orm"],
+    "keywords": ["user-management", "friendsofsymfony-user", "fos-user", "persistence", "doctrine-orm"],
     "homepage": "https://github.com/fos-user-util/orm-crud-bundle",
     "license": "MIT",
     "authors": [
